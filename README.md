@@ -1,2 +1,6 @@
 # algo-struct
-algorithms and data structures
+Тут про алгоритмы и структуры данных
+
+структура проекта
+/fundamenatal-info   - базовые знания
+/optimization        - оптимизация
